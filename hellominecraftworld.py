@@ -5,3 +5,5 @@ mc.postToChat("Hello Minecraft World")
 
 mc.player.setPos(0,100,0)
 
+
+#final edit
