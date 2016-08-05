@@ -1,9 +1,11 @@
 import mcpi.minecraft as minecraft
 mc = minecraft.Minecraft.create()
 
-mc.postToChat("Hello Minecraft World")
+minecraft_greeting="dad"
 
-mc.player.setPos(0,100,0)
+mc.postToChat("hello " +  minecraft_greeting)
+
+mc.player.setPos(1,100,1)
 
 
-#final edit
+
