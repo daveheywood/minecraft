@@ -5,7 +5,8 @@ minecraft_greeting="dad"
 
 mc.postToChat("hello " +  minecraft_greeting)
 
-mc.player.setPos(1,100,1)
+# xyz positions are
+mc.player.setPos(8,10,8)
 
 
 
